@@ -17,6 +17,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "numo-narray", ">= 0.9.2"
   spec.add_dependency "safetensors", ">= 0.1.1"
-  spec.add_dependency "tokenizers", ">= 0.5.0"
+  spec.add_dependency "tokenizers", ">= 0.3.3"
   spec.add_dependency "torch-rb", ">= 0.12.2"
 end
